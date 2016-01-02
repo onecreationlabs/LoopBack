@@ -6,7 +6,6 @@ Pod::Spec.new do |spec|
   spec.homepage     = 'https://github.com/strongloop/loopback-sdk-ios'
   spec.author       = 'hideya kawahara'
   spec.source       = { :git => 'https://github.com/onecreationlabs/custom-pods.git' }
-  spec.framemworks = 'LoopBack'
   spec.vendored_frameworks = 'LoopBack.framework'
 
 end
